@@ -39,9 +39,9 @@ public class MainWindow extends javax.swing.JFrame {
         javax.swing.JLabel labelCount = new javax.swing.JLabel();
 
         setDefaultCloseOperation(javax.swing.WindowConstants.EXIT_ON_CLOSE);
-        setTitle("そーめん大陸(改)");
+        setTitle("Twitter");
 
-        Font font = new Font("Meiryo UI", Font.PLAIN, 20);
+        Font font = new Font("ＭＳ Ｐゴシック", Font.PLAIN, 20);
         textArea.setFont(font);
         textArea.setColumns(20);
         textArea.setLineWrap(true);
